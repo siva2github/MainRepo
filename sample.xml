@@ -3,7 +3,7 @@
   <project name="BB-040-SystemRelease" remote="euvbb" path="BB-040-SystemRelease" />
   <project name="BB-040-SystemTest" remote="euvbb" path="BB-040-SystemTest" revision="sandeep_test" groups="inscope"/>
   <project name="BB-076-Test" remote="euvbb" path="BB-076-Test" revision="sandeep_test" groups="inscope"/>
-  <project name="BB-078-Test" remote="euvbb" path="BB-078-Test" revision="sandeep_test" groups="inscope"/>
+  <project name="BB-083-Test" remote="euvbb" path="BB-078-Test" revision="sandeep_test" groups="inscope"/>
   <project name="BB-081-Test" remote="euvbb" path="BB-081-Test" revision="sandeep_test" groups="inscope"/>
-  <project name="BB-083-Test" remote="euvbb" path="BB-082-Test" revision="sandeep_test" groups="inscope"/>
+  <project name="BB-078-Test" remote="euvbb" path="BB-082-Test" revision="sandeep_test" groups="inscope"/>
 </manifest>
